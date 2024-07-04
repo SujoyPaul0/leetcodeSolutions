@@ -1,6 +1,6 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        
+        # initialize a pointer
         j = 1
         for i in range(1,len(nums)):
             if nums[i] != nums[i-1]:
