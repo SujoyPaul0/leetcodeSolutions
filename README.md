@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for your LeetCode solutions GitHub repository:
-
 ```markdown
 # LeetCode Solutions in Python 🐍
 
