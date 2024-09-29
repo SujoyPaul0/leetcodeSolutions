@@ -17,7 +17,7 @@ class Solution:
         
         for num in salary:
             if num < mini:
-                mini = num
+                mini = num 
         
         for num in salary:
             if num > maxi:
