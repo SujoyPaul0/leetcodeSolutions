@@ -21,7 +21,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         if len(s) == 1:
-            return false
+            return False
         for ch in s:
             if ch in '({[':
                 stack.append(ch)
@@ -32,7 +32,7 @@ class Solution:
                     stack.pop(-1)
                 elif stack[-1] == '{' and ch == '}':
                     stack.pop(-1)
-                elif stack[-1] == '[' and ch = ']':
+                elif stack[-1] == '[' and ch == ']':
                     stack.pop(-1)
                 else:
                     return False
