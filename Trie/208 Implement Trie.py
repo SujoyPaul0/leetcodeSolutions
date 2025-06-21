@@ -50,3 +50,5 @@ class Trie:
                 return False  # If a node is missing, no word starts with this prefix
             curr = curr.children[i]
         return True  # If traversal is successful, a word with this prefix exists
+    
+# Implement Trie
