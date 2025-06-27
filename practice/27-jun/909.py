@@ -29,7 +29,7 @@ class Solution:
                 # If we reach the last square then inc moves by 1
                 if nextSquare == length * length:
                     return moves + 1
-                # If nextSquare not in visit then add it to the set
+                # If nextSquare not in visit then add it to the set frtqwwtybh  
                 if nextSquare not in visit:
                     visit.add(nextSquare)
                     # append nextSquare and inc move count 
