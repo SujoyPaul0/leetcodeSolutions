@@ -71,11 +71,6 @@ _The progress will be updated regularly as I solve more problems._
 
 If you have a more efficient solution or any suggestions, feel free to fork the repository, make your changes, and submit a pull request.
 
-## 🔗 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [GitHub](https://github.com/yourusername)
-
 Happy Coding! 😊
 ```
 
