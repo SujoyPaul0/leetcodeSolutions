@@ -15,4 +15,3 @@ class Solution:
 
         for i in range(len(nums)):
             nums[i] = res[i]
-
