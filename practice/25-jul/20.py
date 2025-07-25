@@ -16,7 +16,4 @@ class Solution:
             else:
                 stack.append(s[i])
 
-        if not stack:
-            return True
-        else:
-            return False
+        return not stack
